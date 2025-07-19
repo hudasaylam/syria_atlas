@@ -25,7 +25,7 @@ Intuitive UI with smooth navigation and clear layouts for a great user experienc
 
 ![categories tab ](images/screenshots/main.png)
 ![favorite tab](images/screenshots/favorite.png)
-![trips pages](images/screenshot/lakes.png)
+![trips pages](images/screenshots/lakes.png)
 ![trips page](images/screenshots/malls.png)
 ![favorite tab](images/screenshots/favorite.png)
 ![trip details](images/screenshots/tripdetailes.png)
