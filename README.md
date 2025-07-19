@@ -23,12 +23,12 @@ Intuitive UI with smooth navigation and clear layouts for a great user experienc
 
 📱 Screenshots
 
-![categories tab ](images/main.png)
-![favorite tab](images/favorite.png)
-![trips pages](images/lakes.png)
-![trips page](images/malls.png)
-![favorite tab](images/favorite.png)
-![trip details](images/tripdetailes.png)
+![categories tab ](images/screenshots/main.png)
+![favorite tab](images/screenshots/favorite.png)
+![trips pages](images/screenshot/lakes.png)
+![trips page](images/screenshots/malls.png)
+![favorite tab](images/screenshots/favorite.png)
+![trip details](images/screenshots/tripdetailes.png)
 
 
 
